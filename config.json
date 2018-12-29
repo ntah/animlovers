@@ -4,6 +4,7 @@
 		"info": "0",
 		"info_message": "",
 		"host": "https://vps.realanime.site/api",
+		"main_host": "https://realanime.site",
 		"um_disable": "0",
 		"um_info": "Under maintenance, we will right back",
 		"disable_report": "0",
