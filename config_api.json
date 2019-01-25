@@ -2,6 +2,7 @@
 	"config": [{
 		"splash_image": "https:\/\/vps.realanime.site\/mangga\/splash\/ShibaMiyukifull2247401.png",
 		"host": "https:\/\/jambu.realanime.site\/realanime",
+		"exp_host": "http:\/\/vid.realanime.site\/realanime",
 		"main_host": "https:\/\/realanime.site",
 		"info": "0",
 		"header": "8D7B3BEFF82845B0C587D545C44E2C2D",
