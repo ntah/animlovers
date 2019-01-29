@@ -2,7 +2,7 @@
 	"config": [{
 		"splash_image": "https://vp-s-3g.durioindigo.net/realanime/splash/145_by_dinocojv-d9irt07.png",
 		"host": "https://vp-s-3g.durioindigo.net/realanime",
-		"exp_host": "https://vp-s-3g.durioindigo.net/realanime",
+		"exp_host": "http://vp-n-3g.durioindigo.net/realanime",
 		"main_host": "https://realanime.site",
 		"info": "0",
 		"header": "8D7B3BEFF82845B0C587D545C44E2C2D",
