@@ -1,0 +1,16 @@
+
+<AppUpdater>
+  <update>
+    <latestVersion>2.41</latestVersion>
+    <url>https://play.google.com/store/apps/details?id=site.realanime.animlov.animlov</url>
+    <releaseNotes>
+~ New Server
+~ Fix Search using uppercase
+~ Fix messed up chatbox when scroll up and down
+~ Fix rotate view
+~ Fix minor bugs
+~ Add option for disable chatbox tab
+~ Hide ecchi genre as default
+   </releaseNotes>
+  </update>
+</AppUpdater>
