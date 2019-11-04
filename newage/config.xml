@@ -10,7 +10,7 @@
 		"under_maintenance_info": "",
 		"disable_report": "0",
 		"disable_request": "0",
-		"disable_chat": "0",
+		"disable_chat": "1",
 		"disable_download": "0",
 		"disable_streaming": "0",
 		"disable_hd": "0",
