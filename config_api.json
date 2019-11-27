@@ -1,8 +1,8 @@
 {
 	"config": [{
 		"splash_image": "https://img.realanime.xyz/image/splash/anime-png-anime-png-image-png-image-600.png",
-		"host": "https://vps.realanime.xyz/realanime",
-		"exp_host": "http://vps.realanime.xyz/realanime",
+		"host": "https://newage.realanime.xyz/realanime",
+		"exp_host": "http://newage.realanime.xyz/realanime",
 		"main_host": "https://realanime.site",
 		"info": "0",
 		"header": "8D7B3BEFF82845B0C587D545C44E2C2D",
