@@ -25,9 +25,9 @@
 		"MainActivity": "inmobi",
 		"DetailActivity": "appnext",
 		"LainnyaActivity": "startapp",
-		"EpisodeActivity": "appnext",
-		"VideoPlayActivity": "appnext",
-		"OtherActivity": "appnext"
+		"EpisodeActivity": "startapp",
+		"VideoPlayActivity": "inmobi",
+		"OtherActivity": "startapp"
 	}]
 }
 /*ads startapp, appnext, inmobi, unity */
