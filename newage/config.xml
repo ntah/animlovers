@@ -13,7 +13,7 @@
 		"disable_chat": "1",
 		"disable_download": "0",
 		"disable_streaming": "0",
-		"disable_hd": "1",
+		"disable_hd": "0",
 		"beta_hd": "0",
 		"beta_hd_info": "HD masih dalam tahap Perbaikan :)",
 		"disable_exp_host": "1",
