@@ -22,11 +22,11 @@
 		"adsvideo": "200",
 		"adsvideo_start": "1",
 		"adsvideo_end": "0",
-		"MainActivity": "unity",
+		"MainActivity": "inmobi",
 		"DetailActivity": "appnext",
 		"LainnyaActivity": "startapp",
 		"EpisodeActivity": "startapp",
-		"VideoPlayActivity": "inmobi",
+		"VideoPlayActivity": "unity",
 		"OtherActivity": "unity"
 	}]
 }
