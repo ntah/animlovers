@@ -1,8 +1,8 @@
 {
 	"config": [{
 		"splash_image": "https://splash.realanime.xyz/anime-png-anime-png-image-png-image-600.png",
-		"host": "https://tehkotak.online",
-		"exp_host": "https://tehkotak.online",
+		"host": "https://web.tehkotak.online",
+		"exp_host": "https://web.tehkotak.online",
 		"main_host": "https://raw.githubusercontent.com/ntah/animlovers/master",
 		"info": "0",
 		"info_message": "Beta test rilis",
