@@ -1,6 +1,6 @@
 {
 	"config": [{
-		"splash_image": "https://splash.realanime.xyz/anime-png-anime-png-image-png-image-600.png",
+		"splash_image": "https://vps.realanime.xyz/image/splash/Nezuko_anime_design.png",
 		"host": "https://web.tehkotak.online",
 		"exp_host": "https://web.tehkotak.online",
 		"main_host": "https://raw.githubusercontent.com/ntah/animlovers/master",
@@ -23,7 +23,7 @@
 		"adsvideo_start": "1",
 		"adsvideo_end": "0",
 		"MainActivity": "inmobi",
-		"DetailActivity": "appnext",
+		"DetailActivity": "startapp",
 		"LainnyaActivity": "startapp",
 		"EpisodeActivity": "startapp",
 		"VideoPlayActivity": "unity",
