@@ -22,7 +22,7 @@
 		"adsvideo": "300",
 		"adsvideo_start": "1",
 		"adsvideo_end": "0",
-		"MainActivity": "startapp",
+		"MainActivity": "appnext",
 		"DetailActivity": "appnext",
 		"LainnyaActivity": "startapp",
 		"EpisodeActivity": "startapp",
