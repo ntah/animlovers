@@ -23,9 +23,9 @@
 		"adsvideo_start": "1",
 		"adsvideo_end": "0",
 		"MainActivity": "inmobi",
-		"DetailActivity": "appnext",
-		"LainnyaActivity": "startapp",
-		"EpisodeActivity": "startapp",
+		"DetailActivity": "unity",
+		"LainnyaActivity": "unity",
+		"EpisodeActivity": "unity",
 		"VideoPlayActivity": "unity",
 		"OtherActivity": "unity"
 	}]
